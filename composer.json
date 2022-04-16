@@ -1,0 +1,12 @@
+{
+	"name": "alaminfirdows/ffmpeg-test",
+	"authors": [
+		{
+			"name": "Al-Amin Firdows",
+			"email": "alaminfirdows@gmail.com"
+		}
+	],
+	"require": {
+		"php-ffmpeg/php-ffmpeg": "^0.16.0"
+	}
+}

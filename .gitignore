@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/temp
+/files/*
+/outputs/*
+/.idea
+/.vscode
+.DS_Store
